@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\zrakoplovVjezba\bin\Debug\zrakoplovVjezba.exe.config
+C:\Users\ucenik\source\repos\zrakoplovVjezba\bin\Debug\zrakoplovVjezba.exe
+C:\Users\ucenik\source\repos\zrakoplovVjezba\bin\Debug\zrakoplovVjezba.pdb
+C:\Users\ucenik\source\repos\zrakoplovVjezba\obj\Debug\zrakoplovVjezba.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\zrakoplovVjezba\obj\Debug\zrakoplovVjezba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\zrakoplovVjezba\obj\Debug\zrakoplovVjezba.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\zrakoplovVjezba\obj\Debug\zrakoplovVjezba.exe
+C:\Users\ucenik\source\repos\zrakoplovVjezba\obj\Debug\zrakoplovVjezba.pdb
